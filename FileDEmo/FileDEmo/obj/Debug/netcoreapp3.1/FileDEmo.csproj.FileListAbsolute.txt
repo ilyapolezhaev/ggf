@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\FileDEmo\FileDEmo\bin\Debug\netcoreapp3.1\FileDEmo.exe
+C:\Users\student\source\repos\FileDEmo\FileDEmo\bin\Debug\netcoreapp3.1\FileDEmo.deps.json
+C:\Users\student\source\repos\FileDEmo\FileDEmo\bin\Debug\netcoreapp3.1\FileDEmo.runtimeconfig.json
+C:\Users\student\source\repos\FileDEmo\FileDEmo\bin\Debug\netcoreapp3.1\FileDEmo.runtimeconfig.dev.json
+C:\Users\student\source\repos\FileDEmo\FileDEmo\bin\Debug\netcoreapp3.1\FileDEmo.dll
+C:\Users\student\source\repos\FileDEmo\FileDEmo\bin\Debug\netcoreapp3.1\FileDEmo.pdb
+C:\Users\student\source\repos\FileDEmo\FileDEmo\obj\Debug\netcoreapp3.1\FileDEmo.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\FileDEmo\FileDEmo\obj\Debug\netcoreapp3.1\FileDEmo.AssemblyInfo.cs
+C:\Users\student\source\repos\FileDEmo\FileDEmo\obj\Debug\netcoreapp3.1\FileDEmo.dll
+C:\Users\student\source\repos\FileDEmo\FileDEmo\obj\Debug\netcoreapp3.1\FileDEmo.pdb

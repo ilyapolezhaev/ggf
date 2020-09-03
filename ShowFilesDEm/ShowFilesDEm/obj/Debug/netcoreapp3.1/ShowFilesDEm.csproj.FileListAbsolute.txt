@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\ShowFilesDEm\ShowFilesDEm\obj\Debug\netcoreapp3.1\ShowFilesDEm.csprojAssemblyReference.cache
+C:\Users\student\source\repos\ShowFilesDEm\ShowFilesDEm\obj\Debug\netcoreapp3.1\ShowFilesDEm.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\ShowFilesDEm\ShowFilesDEm\obj\Debug\netcoreapp3.1\ShowFilesDEm.AssemblyInfo.cs
+C:\Users\student\source\repos\ShowFilesDEm\ShowFilesDEm\bin\Debug\netcoreapp3.1\ShowFilesDEm.exe
+C:\Users\student\source\repos\ShowFilesDEm\ShowFilesDEm\bin\Debug\netcoreapp3.1\ShowFilesDEm.deps.json
+C:\Users\student\source\repos\ShowFilesDEm\ShowFilesDEm\bin\Debug\netcoreapp3.1\ShowFilesDEm.runtimeconfig.json
+C:\Users\student\source\repos\ShowFilesDEm\ShowFilesDEm\bin\Debug\netcoreapp3.1\ShowFilesDEm.runtimeconfig.dev.json
+C:\Users\student\source\repos\ShowFilesDEm\ShowFilesDEm\bin\Debug\netcoreapp3.1\ShowFilesDEm.dll
+C:\Users\student\source\repos\ShowFilesDEm\ShowFilesDEm\bin\Debug\netcoreapp3.1\ShowFilesDEm.pdb
+C:\Users\student\source\repos\ShowFilesDEm\ShowFilesDEm\obj\Debug\netcoreapp3.1\ShowFilesDEm.dll
+C:\Users\student\source\repos\ShowFilesDEm\ShowFilesDEm\obj\Debug\netcoreapp3.1\ShowFilesDEm.pdb
